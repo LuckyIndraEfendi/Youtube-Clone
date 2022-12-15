@@ -9,7 +9,7 @@
  
 
 # Read About the Framework Documentation
-💠 Codeigniter 4 https://codeigniter.com/user_guide/index.htmlundefined </br>
-💠 Boostrap 5 https://getbootstrap.com/docs/5.0/getting-started/introduction/ </br>
-💠 Ion Auth http://benedmunds.com/ion_auth/ </br>
+💠 Rapid API [https://codeigniter.com/user_guide/index.htmlundefined ](https://rapidapi.com/guides/categories/rapidapi-client-vscode)</br>
+💠 Material UI 5 [https://getbootstrap.com/docs/5.0/getting-started/introduction/](https://mui.com/material-ui/migration/migration-v4/) </br>
+💠 React JS https://reactjs.org/ </br>
 
